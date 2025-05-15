@@ -45,3 +45,7 @@ make
 | `/cgi-bin/infinite_loop.php`         | タイムアウトテスト                 |
 | `/cgi-bin/crash_test.php`            | PHPクラッシュテスト               |
 | `/error/404.html`, `/error/500.html` | カスタムエラーページ                |
+
+## License📄
+
+This project is licensed under the [MIT License](./LICENSE).
